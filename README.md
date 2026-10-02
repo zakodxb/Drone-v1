@@ -7,9 +7,9 @@ A fully 3D-printed FPV racing quadcopter, designed from scratch in Fusion 360. C
 ## CAD Files
 - [Frame (STL)](dronev1%20frame.stl)
 - [Frame (STL)](dronev1frame.stl)
+- [Full Design - Frame + Battery Bracket (STEP - editable)](Drone v1.step)
 
-
-
+Drone v1.step
 ## Bill of Materials
 
 | Part | AED | USD |
