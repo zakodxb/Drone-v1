@@ -6,4 +6,16 @@ A fully 3D-printed FPV racing quadcopter, designed from scratch in Fusion 360. C
 ![Frame design 2](<Screenshot 2026-10-02 135602.png>)
 ## CAD Files
 - [Frame (STL)](dronev1%20frame.stl)
-- [Battery Bracket (STL)](batterybracket.stl)
+- [Frame (STL)](dronev1frame.stl)
+
+
+
+## Bill of Materials
+
+| Part | AED | USD |
+|---|---|---|
+| 2205 2300KV Motor Set (w/ ESC + Props) | 220.00 | $59.90 |
+| Labymos F4 V3S Plus Flight Controller | 122.00 | $33.22 |
+| **Total** | **342.00** | **$93.12** |
+
+*Prices in UAE Dirhams (AED) and US Dollars (USD).
