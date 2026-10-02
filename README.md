@@ -10,8 +10,10 @@ A fully 3D-printed FPV racing quadcopter, designed from scratch in Fusion 360. C
 - [frame (STEP - editable)](Drone%20v1.step)
 - .[Battery bracketSTEP - editable)](battery%20bracket.step) 
   
+## Wiring diagram
+![Wiring diagram](20261002_162859.jpg)
 
-Drone v1.step
+
 ## Bill of Materials
 
 | Part | AED | USD |
