@@ -15,7 +15,7 @@ A fully 3D-printed FPV racing quadcopter, designed from scratch in Fusion 360. C
 
 ## Assembly file with mounted electronics
 ![Frame design](<Full Assembly.png>)
-
+- [Full assembly with electronics (STEP)](assembly%20with%20mounted%20electronicsDrone%20v1.step)
 ## Bill of Materials
 
 | Part | AED | USD |
